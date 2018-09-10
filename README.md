@@ -1,4 +1,4 @@
-# Go_Laravel_Session
+# Go Laravel Session
 Go Laravel Session
 Read Laravel's SessionID support for golang.
 
